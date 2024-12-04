@@ -1,4 +1,4 @@
-# Project_SQL
+# Project_PowerBi
 Porovnání dostupnosti potravin na základě průměrných příjmů
 
 ## Popis projektu
